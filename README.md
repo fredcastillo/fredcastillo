@@ -223,7 +223,7 @@ ATTACK -> OBSERVE -> DETECT -> REMEDIATE -> AUTOMATE
   />
   &nbsp;&nbsp;
   <img
-    src="https://skillicons.dev/icons?i=proxmox&theme=dark"
+    src="https://cdn.simpleicons.org/proxmox?viewbox=auto"
     width="52"
     height="52"
     alt="Proxmox"
