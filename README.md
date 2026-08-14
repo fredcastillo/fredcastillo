@@ -144,127 +144,127 @@ ATTACK -> OBSERVE -> DETECT -> REMEDIATE -> AUTOMATE
 ---
 
 ## `> technical_stack`
+## `> technical_stack`
 
-<table>
+<p align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=700&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=SECURITY+ENGINEERING;SYSTEMS+%26+INFRASTRUCTURE;NETWORKING;AUTOMATION+%26+CLOUD;OFFENSIVE+SECURITY"
+  alt="Technical domains"
+/>
+
+</p>
+
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="150" align="right" valign="middle">
 
-### `01 // SECURITY ENGINEERING`
+### `01`
 
-**Detection & Monitoring**
-
-<img src="https://img.shields.io/badge/Wazuh-18181B?style=flat-square&logo=wazuh&logoColor=white">
-<img src="https://img.shields.io/badge/SIEM-18181B?style=flat-square">
-<img src="https://img.shields.io/badge/Wireshark-18181B?style=flat-square&logo=wireshark&logoColor=white">
-
-**Vulnerability Management**
-
-<img src="https://img.shields.io/badge/Nessus-18181B?style=flat-square&logo=tenable&logoColor=white">
-<img src="https://img.shields.io/badge/Vulnerability_Assessment-18181B?style=flat-square">
-
-**Identity & Access**
-
-<img src="https://img.shields.io/badge/Active_Directory-18181B?style=flat-square&logo=microsoft&logoColor=white">
-<img src="https://img.shields.io/badge/IAM-18181B?style=flat-square">
-<img src="https://img.shields.io/badge/Access_Control-18181B?style=flat-square">
-
-**Infrastructure Security**
-
-<img src="https://img.shields.io/badge/Windows_Security-18181B?style=flat-square&logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/Linux_Security-18181B?style=flat-square&logo=linux&logoColor=white">
-<img src="https://img.shields.io/badge/Hardening-18181B?style=flat-square">
+**SECURITY**
 
 </td>
 
-<td width="50%" valign="top">
+<td valign="middle">
 
-### `02 // SYSTEMS & INFRASTRUCTURE`
+<img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" height="42" />
 
-**Windows**
+<br>
 
-<img src="https://img.shields.io/badge/Windows_Server_2025-18181B?style=flat-square&logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/Active_Directory_DS-18181B?style=flat-square">
-<img src="https://img.shields.io/badge/Group_Policy-18181B?style=flat-square">
-
-**Linux**
-
-<img src="https://img.shields.io/badge/CentOS_Stream-18181B?style=flat-square&logo=centos&logoColor=white">
-
-**Virtualization**
-
-<img src="https://img.shields.io/badge/Proxmox-18181B?style=flat-square&logo=proxmox&logoColor=white">
-<img src="https://img.shields.io/badge/VMware-18181B?style=flat-square&logo=vmware&logoColor=white">
-
-**Containers**
-
-<img src="https://img.shields.io/badge/Docker-18181B?style=flat-square&logo=docker&logoColor=white">
+<sub>Wazuh · Wireshark · Nessus · Active Directory · SIEM · IAM · Hardening</sub>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="150" align="right" valign="middle">
 
-### `03 // NETWORKING`
+### `02`
 
-**Cisco**
-
-<img src="https://img.shields.io/badge/Cisco-18181B?style=flat-square&logo=cisco&logoColor=white">
-
-**Routing & Switching**
-
-<img src="https://img.shields.io/badge/Routing-18181B?style=flat-square">
-<img src="https://img.shields.io/badge/Switching-18181B?style=flat-square">
-<img src="https://img.shields.io/badge/OSPF-18181B?style=flat-square">
-<img src="https://img.shields.io/badge/VLANs-18181B?style=flat-square">
-
-**Network Security**
-
-<img src="https://img.shields.io/badge/ACLs-18181B?style=flat-square">
-<img src="https://img.shields.io/badge/VPN-18181B?style=flat-square">
-<img src="https://img.shields.io/badge/IPsec-18181B?style=flat-square">
+**INFRA**
 
 </td>
 
-<td width="50%" valign="top">
+<td valign="middle">
 
-### `04 // AUTOMATION & CLOUD`
+<img src="https://skillicons.dev/icons?i=windows,linux,docker,proxmox,vmware&theme=dark&perline=5" height="42" />
 
-**Scripting**
+<br>
 
-<img src="https://img.shields.io/badge/PowerShell-18181B?style=flat-square&logo=powershell&logoColor=white">
-<img src="https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=white">
-
-**Automation & IaC**
-
-<img src="https://img.shields.io/badge/Ansible-18181B?style=flat-square&logo=ansible&logoColor=white">
-<img src="https://img.shields.io/badge/Terraform-18181B?style=flat-square&logo=terraform&logoColor=white">
-
-**Cloud**
-
-<img src="https://img.shields.io/badge/Microsoft_Azure-18181B?style=flat-square&logo=microsoftazure&logoColor=white">
-<img src="https://img.shields.io/badge/Oracle_Cloud-18181B?style=flat-square&logo=oracle&logoColor=white">
+<sub>Windows Server · AD DS · GPO · Containers · Virtualization</sub>
 
 </td>
 </tr>
 
 <tr>
-<td colspan="2" valign="top">
+<td width="150" align="right" valign="middle">
 
-### `05 // OFFENSIVE SECURITY`
+### `03`
 
-<img src="https://img.shields.io/badge/Reconnaissance-18181B?style=flat-square">
-<img src="https://img.shields.io/badge/Enumeration-18181B?style=flat-square">
-<img src="https://img.shields.io/badge/Active_Directory_Security-18181B?style=flat-square">
-<img src="https://img.shields.io/badge/Windows_PrivEsc-18181B?style=flat-square">
-<img src="https://img.shields.io/badge/Linux_PrivEsc-18181B?style=flat-square">
-<img src="https://img.shields.io/badge/Web_Security-18181B?style=flat-square">
-<img src="https://img.shields.io/badge/Penetration_Testing-18181B?style=flat-square">
+**NETWORKING**
+
+</td>
+
+<td valign="middle">
+
+<img src="https://skillicons.dev/icons?i=cisco&theme=dark" height="42" />
+
+<br>
+
+<sub>Routing · Switching · OSPF · VLANs · ACLs · VPN · IPsec</sub>
+
+</td>
+</tr>
+
+<tr>
+<td width="150" align="right" valign="middle">
+
+### `04`
+
+**AUTOMATION**
+
+</td>
+
+<td valign="middle">
+
+<img src="https://skillicons.dev/icons?i=python,powershell,ansible,terraform,azure&theme=dark&perline=5" height="42" />
+
+<br>
+
+<sub>Scripting · Automation · Infrastructure as Code · Cloud</sub>
+
+</td>
+</tr>
+
+<tr>
+<td width="150" align="right" valign="middle">
+
+### `05`
+
+**OFFENSIVE**
+
+</td>
+
+<td valign="middle">
+
+<img src="https://skillicons.dev/icons?i=kali,linux&theme=dark" height="42" />
+
+<br>
+
+<sub>Reconnaissance · Enumeration · AD Security · PrivEsc · Web Security · Pentesting</sub>
 
 </td>
 </tr>
 </table>
-</div>
+
+<p align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=2800&pause=900&color=7D8B99&center=true&vCenter=true&repeat=true&width=680&height=25&lines=%5B+SECURITY+%5D+ACTIVE+%20%20%20%5BNETWORK%5D+ACTIVE+%20%20%20%5BINFRA%5D+READY+%20%20%20%5BCLOUD%5D+BUILDING"
+  alt="System status"
+/>
+
+</p>
 
 ---
 
