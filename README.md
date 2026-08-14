@@ -222,7 +222,7 @@ BUILD → CONFIGURE → HARDEN → TEST → ATTACK → OBSERVE → DETECT → RE
 ### Networking & Systems
 - Cisco Networking / CCNA training
 - IT Essentials
-- Linux CentOS Stream Module I
+- Linux CentOS Stream training
 
 > Certifications support the context. The portfolio remains focused on practical work, labs and technical evidence.
 
