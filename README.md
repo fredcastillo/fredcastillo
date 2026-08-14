@@ -144,9 +144,11 @@ ATTACK -> OBSERVE -> DETECT -> REMEDIATE -> AUTOMATE
 ---
 ## `> technical_stack`
 
+<!-- ======================== TOP ANIMATION ======================== -->
+
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=900&color=00D9FF&center=true&vCenter=true&repeat=true&width=900&height=42&lines=SECURITY+ENGINEERING;SYSTEMS+%26+INFRASTRUCTURE;NETWORKING;AUTOMATION+%26+CLOUD;OFFENSIVE+SECURITY"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1800&pause=900&color=00D9FF&center=true&vCenter=true&repeat=true&width=1000&height=46&lines=SECURITY+ENGINEERING;SYSTEMS+%26+INFRASTRUCTURE;NETWORKING;AUTOMATION+%26+CLOUD;OFFENSIVE+SECURITY"
     alt="Technical domains"
   />
 </p>
@@ -377,11 +379,10 @@ ATTACK -> OBSERVE -> DETECT -> REMEDIATE -> AUTOMATE
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=9&duration=2400&pause=1000&color=7D8B99&center=true&vCenter=true&repeat=true&width=650&height=22&lines=%5B+SECURITY+%5D+ACTIVE+%2F%2F+%5BNETWORK%5D+ACTIVE;%5B+INFRASTRUCTURE+%5D+READY+%2F%2F+%5BAUTOMATION+%5D+BUILDING;%5B+OFFENSIVE+SECURITY+%5D+READY+%2F%2F+%5BCLOUD+%5D+BUILDING"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=12&duration=2400&pause=1000&color=7D8B99&center=true&vCenter=true&repeat=true&width=850&height=30&lines=%5B+SECURITY+%5D+ACTIVE+%2F%2F+%5BNETWORK%5D+ACTIVE;%5B+INFRASTRUCTURE+%5D+READY+%2F%2F+%5BAUTOMATION+%5D+BUILDING;%5B+OFFENSIVE+SECURITY+%5D+READY+%2F%2F+%5BCLOUD+%5D+BUILDING"
     alt="Technical stack status"
   />
 </p>
-
 ---
 
 ## `> certifications`
