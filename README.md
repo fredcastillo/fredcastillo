@@ -69,7 +69,7 @@ Offensive Security / Red Team
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/usalu/semio/main/assets/badges/ui-windows.svg" alt="Windows">
+### <sub><img src="https://raw.githubusercontent.com/usalu/semio/main/assets/badges/ui-windows.svg" width="26" height="26"/></sub> Windows Server 2025 Security Lab
 
 Enterprise-style Windows security laboratory focused on:
 
