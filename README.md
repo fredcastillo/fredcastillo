@@ -145,10 +145,125 @@ ATTACK -> OBSERVE -> DETECT -> REMEDIATE -> AUTOMATE
 
 ## `> technical_stack`
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img width="760" src="./assets/technical-stack.svg" alt="Visual technical stack covering security and detection, systems and infrastructure, networking, automation and cloud; every capability includes a local vector icon" />
+### `01 // SECURITY ENGINEERING`
 
+**Detection & Monitoring**
+
+<img src="https://img.shields.io/badge/Wazuh-18181B?style=flat-square&logo=wazuh&logoColor=white">
+<img src="https://img.shields.io/badge/SIEM-18181B?style=flat-square">
+<img src="https://img.shields.io/badge/Wireshark-18181B?style=flat-square&logo=wireshark&logoColor=white">
+
+**Vulnerability Management**
+
+<img src="https://img.shields.io/badge/Nessus-18181B?style=flat-square&logo=tenable&logoColor=white">
+<img src="https://img.shields.io/badge/Vulnerability_Assessment-18181B?style=flat-square">
+
+**Identity & Access**
+
+<img src="https://img.shields.io/badge/Active_Directory-18181B?style=flat-square&logo=microsoft&logoColor=white">
+<img src="https://img.shields.io/badge/IAM-18181B?style=flat-square">
+<img src="https://img.shields.io/badge/Access_Control-18181B?style=flat-square">
+
+**Infrastructure Security**
+
+<img src="https://img.shields.io/badge/Windows_Security-18181B?style=flat-square&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/Linux_Security-18181B?style=flat-square&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/Hardening-18181B?style=flat-square">
+
+</td>
+
+<td width="50%" valign="top">
+
+### `02 // SYSTEMS & INFRASTRUCTURE`
+
+**Windows**
+
+<img src="https://img.shields.io/badge/Windows_Server_2025-18181B?style=flat-square&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/Active_Directory_DS-18181B?style=flat-square">
+<img src="https://img.shields.io/badge/Group_Policy-18181B?style=flat-square">
+
+**Linux**
+
+<img src="https://img.shields.io/badge/CentOS_Stream-18181B?style=flat-square&logo=centos&logoColor=white">
+
+**Virtualization**
+
+<img src="https://img.shields.io/badge/Proxmox-18181B?style=flat-square&logo=proxmox&logoColor=white">
+<img src="https://img.shields.io/badge/VMware-18181B?style=flat-square&logo=vmware&logoColor=white">
+
+**Containers**
+
+<img src="https://img.shields.io/badge/Docker-18181B?style=flat-square&logo=docker&logoColor=white">
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### `03 // NETWORKING`
+
+**Cisco**
+
+<img src="https://img.shields.io/badge/Cisco-18181B?style=flat-square&logo=cisco&logoColor=white">
+
+**Routing & Switching**
+
+<img src="https://img.shields.io/badge/Routing-18181B?style=flat-square">
+<img src="https://img.shields.io/badge/Switching-18181B?style=flat-square">
+<img src="https://img.shields.io/badge/OSPF-18181B?style=flat-square">
+<img src="https://img.shields.io/badge/VLANs-18181B?style=flat-square">
+
+**Network Security**
+
+<img src="https://img.shields.io/badge/ACLs-18181B?style=flat-square">
+<img src="https://img.shields.io/badge/VPN-18181B?style=flat-square">
+<img src="https://img.shields.io/badge/IPsec-18181B?style=flat-square">
+
+</td>
+
+<td width="50%" valign="top">
+
+### `04 // AUTOMATION & CLOUD`
+
+**Scripting**
+
+<img src="https://img.shields.io/badge/PowerShell-18181B?style=flat-square&logo=powershell&logoColor=white">
+<img src="https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=white">
+
+**Automation & IaC**
+
+<img src="https://img.shields.io/badge/Ansible-18181B?style=flat-square&logo=ansible&logoColor=white">
+<img src="https://img.shields.io/badge/Terraform-18181B?style=flat-square&logo=terraform&logoColor=white">
+
+**Cloud**
+
+<img src="https://img.shields.io/badge/Microsoft_Azure-18181B?style=flat-square&logo=microsoftazure&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle_Cloud-18181B?style=flat-square&logo=oracle&logoColor=white">
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+
+### `05 // OFFENSIVE SECURITY`
+
+<img src="https://img.shields.io/badge/Reconnaissance-18181B?style=flat-square">
+<img src="https://img.shields.io/badge/Enumeration-18181B?style=flat-square">
+<img src="https://img.shields.io/badge/Active_Directory_Security-18181B?style=flat-square">
+<img src="https://img.shields.io/badge/Windows_PrivEsc-18181B?style=flat-square">
+<img src="https://img.shields.io/badge/Linux_PrivEsc-18181B?style=flat-square">
+<img src="https://img.shields.io/badge/Web_Security-18181B?style=flat-square">
+<img src="https://img.shields.io/badge/Penetration_Testing-18181B?style=flat-square">
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
