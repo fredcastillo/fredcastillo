@@ -69,7 +69,7 @@ Offensive Security / Red Team
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://cdn.simpleicons.org/microsoft/5E5E5E" width="24" height="24" style="vertical-align: middle;"/> Windows Server 2025 Security Lab
+### <sub><img src="https://cdn.simpleicons.org/microsoft/5E5E5E" width="26" height="26"/></sub> Windows Server 2025 Security Lab
 
 Enterprise-style Windows security laboratory focused on:
 
@@ -90,7 +90,7 @@ Enterprise-style Windows security laboratory focused on:
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://cdn.simpleicons.org/owasp/00A98F" width="24" height="24" style="vertical-align: middle;"/> Cybersecurity Labs
+### <sub><img src="https://cdn.simpleicons.org/owasp/00A98F" width="26" height="26"/></sub> Cybersecurity Labs
 
 Controlled cybersecurity labs covering areas such as:
 
@@ -131,7 +131,7 @@ Focus areas:
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="24" height="24" style="vertical-align: middle;"/> Networking Labs
+### <sub><img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="26" height="26"/></sub> Networking Labs
 
 Hands-on networking environments focused on infrastructure and troubleshooting.
 
