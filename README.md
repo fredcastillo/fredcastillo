@@ -144,18 +144,20 @@ ATTACK -> OBSERVE -> DETECT -> REMEDIATE -> AUTOMATE
 ---
 
 ## `> technical_stack`
-## `> technical_stack`
 
 <p align="center">
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=1800&pause=500&color=00D9FF&center=true&vCenter=true&repeat=true&width=620&height=32&lines=%3E+SECURITY+ENGINEERING;%3E+SYSTEMS+%26+INFRASTRUCTURE;%3E+NETWORKING;%3E+AUTOMATION+%26+CLOUD;%3E+OFFENSIVE+SECURITY"
-  alt="Technical Stack"
->
+  <!-- Animated domain focus -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=1800&pause=850&color=00D9FF&center=true&vCenter=true&repeat=true&width=650&height=30&lines=SECURITY+ENGINEERING;SYSTEMS+%26+INFRASTRUCTURE;NETWORKING;AUTOMATION+%26+CLOUD"
+    alt="Technical domains"
+  />
 
 </p>
 
+<!-- ========================================================= -->
 <!-- SECURITY -->
+<!-- ========================================================= -->
 
 <p align="center">
   <sub>01</sub><br>
@@ -163,21 +165,57 @@ ATTACK -> OBSERVE -> DETECT -> REMEDIATE -> AUTOMATE
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,kali&theme=dark" height="58">
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="58" height="58">
-  <img src="https://cdn.simpleicons.org/wazuh/00AEEF" width="58" height="58">
-  <img src="https://cdn.simpleicons.org/tenable/00B386" width="58" height="58">
+
+  <img
+    src="https://cdn.simpleicons.org/wazuh/00AEEF"
+    width="52"
+    height="52"
+    alt="Wazuh"
+  />
+
+  <img
+    src="https://cdn.simpleicons.org/wireshark/1679A7"
+    width="52"
+    height="52"
+    alt="Wireshark"
+  />
+
+  <img
+    src="https://cdn.simpleicons.org/tenable/00B386"
+    width="52"
+    height="52"
+    alt="Nessus"
+  />
+
+  <img
+    src="https://skillicons.dev/icons?i=windows&theme=dark"
+    width="52"
+    height="52"
+    alt="Windows"
+  />
+
+  <img
+    src="https://skillicons.dev/icons?i=linux&theme=dark"
+    width="52"
+    height="52"
+    alt="Linux"
+  />
+
 </p>
 
 <p align="center">
   <sub>
-    Wazuh · Wireshark · Nessus · Active Directory · SIEM · IAM · Hardening
+    Security · Engineering · Wazuh · SIEM · Nessus · Vulnerability Assessment
+    <br>
+    Wireshark · Network Analysis · System · Hardening · Identity · Access Control
   </sub>
 </p>
 
 <br>
 
+<!-- ========================================================= -->
 <!-- SYSTEMS & INFRASTRUCTURE -->
+<!-- ========================================================= -->
 
 <p align="center">
   <sub>02</sub><br>
@@ -185,18 +223,28 @@ ATTACK -> OBSERVE -> DETECT -> REMEDIATE -> AUTOMATE
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,docker,proxmox,vmware&theme=dark" height="58">
+
+  <img
+    src="https://skillicons.dev/icons?i=windows,linux,docker,proxmox,vmware&theme=dark&perline=5"
+    height="56"
+    alt="Infrastructure stack"
+  />
+
 </p>
 
 <p align="center">
   <sub>
-    Windows Server · AD DS · GPO · Containers · Virtualization
+    Windows Server 2025 · Active Directory · AD DS · Linux · CentOS Stream
+    <br>
+    Docker · Containers · Proxmox · Virtualization · VMware · Labs
   </sub>
 </p>
 
 <br>
 
+<!-- ========================================================= -->
 <!-- NETWORKING -->
+<!-- ========================================================= -->
 
 <p align="center">
   <sub>03</sub><br>
@@ -204,19 +252,36 @@ ATTACK -> OBSERVE -> DETECT -> REMEDIATE -> AUTOMATE
 </p>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="58" height="58">
-  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="58" height="58">
+
+  <img
+    src="https://cdn.simpleicons.org/cisco/1BA0D7"
+    width="56"
+    height="56"
+    alt="Cisco"
+  />
+
+  <img
+    src="https://skillicons.dev/icons?i=linux&theme=dark"
+    width="56"
+    height="56"
+    alt="Networking"
+  />
+
 </p>
 
 <p align="center">
   <sub>
-    Routing · Switching · OSPF · VLANs · ACLs · VPN · IPsec
+    Cisco · Networking · Routing · OSPF · Switching · VLANs
+    <br>
+    Network · ACLs · VPN · IPsec
   </sub>
 </p>
 
 <br>
 
+<!-- ========================================================= -->
 <!-- AUTOMATION & CLOUD -->
+<!-- ========================================================= -->
 
 <p align="center">
   <sub>04</sub><br>
@@ -224,18 +289,35 @@ ATTACK -> OBSERVE -> DETECT -> REMEDIATE -> AUTOMATE
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,powershell,ansible,terraform,azure&theme=dark" height="58">
+
+  <img
+    src="https://skillicons.dev/icons?i=python,powershell,ansible,terraform,azure&theme=dark&perline=5"
+    height="56"
+    alt="Automation and cloud stack"
+  />
+
+  <img
+    src="https://cdn.simpleicons.org/oracle/FF0000"
+    width="56"
+    height="56"
+    alt="Oracle Cloud"
+  />
+
 </p>
 
 <p align="center">
   <sub>
-    Python · PowerShell · Ansible · Infrastructure as Code · Microsoft Azure
+    PowerShell · Scripting · Python · Automation · Ansible
+    <br>
+    Terraform · IaC · Microsoft Azure · Cloud · Oracle Cloud · OCI
   </sub>
 </p>
 
 <br>
 
+<!-- ========================================================= -->
 <!-- OFFENSIVE SECURITY -->
+<!-- ========================================================= -->
 
 <p align="center">
   <sub>05</sub><br>
@@ -243,25 +325,39 @@ ATTACK -> OBSERVE -> DETECT -> REMEDIATE -> AUTOMATE
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,linux,windows&theme=dark" height="58">
+
+  <img
+    src="https://skillicons.dev/icons?i=kali,linux,windows&theme=dark"
+    height="56"
+    alt="Offensive security stack"
+  />
+
 </p>
 
 <p align="center">
   <sub>
-    Reconnaissance · Enumeration · Active Directory Security · PrivEsc · Web Security · Pentesting
+    Reconnaissance · Enumeration · Active Directory Security
+    <br>
+    Windows PrivEsc · Linux PrivEsc · Web Security · Penetration Testing
   </sub>
 </p>
 
 <br>
 
+<!-- ========================================================= -->
+<!-- ANIMATED STATUS -->
+<!-- ========================================================= -->
+
 <p align="center">
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=2600&pause=900&color=7D8B99&center=true&vCenter=true&repeat=true&width=620&height=22&lines=%5B+SECURITY+%5D+ACTIVE+%20%20%2F%2F%20%20%5BNETWORK%5D+ACTIVE;%5B+INFRASTRUCTURE+%5D+READY+%20%20%2F%2F%20%20%5BAUTOMATION+%5D+BUILDING;%5B+OFFENSIVE+SECURITY+%5D+READY"
-  alt="System status"
->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=10&duration=2600&pause=900&color=7D8B99&center=true&vCenter=true&repeat=true&width=700&height=24&lines=%5B+SECURITY+%5D+ACTIVE+%2F%2F+%5BNETWORK%5D+ACTIVE;%5B+INFRASTRUCTURE+%5D+READY+%2F%2F+%5BAUTOMATION%5D+BUILDING;%5B+OFFENSIVE+SECURITY+%5D+READY+%2F%2F+%5BCLOUD%5D+BUILDING"
+    alt="Technical stack status"
+  />
 
 </p>
+
+
 ---
 
 ## `> certifications`
