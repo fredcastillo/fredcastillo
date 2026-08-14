@@ -111,7 +111,7 @@ Controlled cybersecurity labs covering areas such as:
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://cdn.simpleicons.org/arduino/00979D" width="24" height="24" style="vertical-align: -60px;"/> Digispark HID Attack & Defense PoC
+### <sub><img src="https://cdn.simpleicons.org/arduino/00979D" width="24" height="24"/></sub> Digispark HID Attack & Defense PoC
 
 Security research project exploring USB HID / BadUSB-style techniques in a controlled Windows environment.
 
