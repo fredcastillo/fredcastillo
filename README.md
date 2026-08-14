@@ -383,6 +383,7 @@ ATTACK -> OBSERVE -> DETECT -> REMEDIATE -> AUTOMATE
     alt="Technical stack status"
   />
 </p>
+
 ---
 
 ## `> certifications`
