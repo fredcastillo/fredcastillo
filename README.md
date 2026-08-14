@@ -90,7 +90,7 @@ Enterprise-style Windows security laboratory focused on:
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://cdn.simpleicons.org/owasp/00A98F" width="20"/> Cybersecurity Labs
+### <img src="https://cdn.simpleicons.org/owasp/00A98F" width="24" height="24" style="vertical-align: middle;"/> Cybersecurity Labs
 
 Controlled cybersecurity labs covering areas such as:
 
@@ -111,7 +111,7 @@ Controlled cybersecurity labs covering areas such as:
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://cdn.simpleicons.org/arduino/00979D" width="20"/> Digispark HID Attack & Defense PoC
+### <img src="https://cdn.simpleicons.org/arduino/00979D" width="24" height="24" style="vertical-align: middle;"/> Digispark HID Attack & Defense PoC
 
 Security research project exploring USB HID / BadUSB-style techniques in a controlled Windows environment.
 
@@ -131,7 +131,7 @@ Focus areas:
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="20"/> Networking Labs
+### <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="24" height="24" style="vertical-align: middle;"/> Networking Labs
 
 Hands-on networking environments focused on infrastructure and troubleshooting.
 
