@@ -37,32 +37,6 @@ I currently hold the **ISC2 Certified in Cybersecurity (CC)** credential and I a
 
 ---
 
-## `> current_route`
-
-```text
-Information Technology
-        │
-        ▼
-Networking
-        │
-        ▼
-Systems Administration
-        │
-        ▼
-Infrastructure
-        │
-        ▼
-Cybersecurity
-        │
-        ▼
-Security Engineering
-        │
-        ▼
-Offensive Security / Red Team
-```
-
----
-
 ## `> featured_projects`
 
 <table>
