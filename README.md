@@ -145,103 +145,149 @@ ATTACK -> OBSERVE -> DETECT -> REMEDIATE -> AUTOMATE
 
 ## `> technical_stack`
 
-<div align="center">
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=700&color=00D9FF&center=true&vCenter=true&repeat=true&width=900&height=42&lines=SECURITY+ENGINEERING;SYSTEMS+%26+INFRASTRUCTURE;NETWORKING;AUTOMATION+%26+CLOUD"
-alt="Technical Stack animation"
-/>
-
-</div>
-
-<br>
-
-### `01 // SECURITY`
-
-<div align="center">
-
-<img
-src="https://simpleicons.dev/icons?icons=wazuh,nessus,wireshark,owasp&theme=dark&perline=4"
-height="72"
-alt="Security technologies"
-/>
-
-</div>
-
 <p align="center">
-  <sub>Security Engineering · Wazuh · SIEM · Nessus · Vulnerability Assessment · Wireshark · Network Analysis · System Hardening · Identity & Access Control</sub>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1800&pause=900&color=00D9FF&center=true&vCenter=true&repeat=true&width=900&height=28&lines=SECURITY+ENGINEERING;SYSTEMS+%26+INFRASTRUCTURE;NETWORKING;AUTOMATION+%26+CLOUD;OFFENSIVE+SECURITY"
+    alt="Technical domains"
+  />
 </p>
 
----
-
-### `02 // SYSTEMS & INFRASTRUCTURE`
+<!-- ======================== SECURITY ======================== -->
 
 <p align="center">
-
-<img
-src="https://skillicons.dev/icons?i=windows,linux,docker,proxmox&theme=dark&perline=4"
-alt="Systems and infrastructure"
-/>
-
-<br>
-
-<img
-src="https://cdn.simpleicons.org/vmware/607078?viewbox=auto"
-width="72"
-height="72"
-alt="VMware"
-/>
-
+  <strong>01 // SECURITY</strong>
 </p>
-
-<p align="center">
-  <sub>Windows Server 2025 · Active Directory · AD DS · Linux · CentOS Stream · Docker · Containers · Proxmox · Virtualization · VMware · Labs</sub>
-</p>
-
----
-
-### `03 // NETWORKING`
 
 <div align="center">
 
 <img
-src="https://skillicons.dev/icons?i=cisco&theme=dark"
-alt="Cisco"
+  src="https://skillicons.dev/icons?i=windows,linux,kali&theme=dark&perline=3"
+  height="52"
+  alt="Windows Linux Kali"
 />
 
 </div>
 
 <p align="center">
-  <sub>Networking · Cisco · Routing · OSPF · Switching · VLANs · DHCP · WAN · ACLs · VPN · IPsec</sub>
+  <sub>
+    Security · Engineering · Wazuh · SIEM · Nessus · Vulnerability Assessment ·
+    Wireshark · Network Analysis · System · Hardening · Identity · Access Control
+  </sub>
 </p>
 
----
-
-### `04 // AUTOMATION & CLOUD`
+<!-- ================= SYSTEMS & INFRA ================= -->
 
 <p align="center">
-
-<img
-src="https://skillicons.dev/icons?i=powershell,python,ansible,terraform,azure&theme=dark&perline=5"
-alt="Automation and cloud technologies"
-/>
-
-<br>
-
-<img
-src="https://simpleicons.dev/icons?icons=oracle&theme=dark"
-width="72"
-height="72"
-alt="Oracle Cloud"
-/>
-
+  <strong>02 // SYSTEMS &amp; INFRASTRUCTURE</strong>
 </p>
+
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=windows,linux,docker,proxmox&theme=dark&perline=4"
+  height="52"
+  alt="Windows Linux Docker Proxmox"
+/>&nbsp;&nbsp;
+<img
+  src="https://www.svgrepo.com/show/340620/logo-vmware.svg"
+  width="52"
+  height="52"
+  alt="VMware"
+/>
+
+</div>
 
 <p align="center">
-  <sub>PowerShell · Scripting · Python · Automation · Ansible · Terraform · Infrastructure as Code · Microsoft Azure · Cloud · Oracle Cloud Infrastructure · OCI</sub>
+  <sub>
+    Windows Server 2025 · Active Directory · AD DS · Linux · CentOS Stream ·
+    Docker · Containers · Proxmox · Virtualization · VMware · Labs
+  </sub>
 </p>
 
----
+<!-- ======================== NETWORKING ======================== -->
+
+<p align="center">
+  <strong>03 // NETWORKING</strong>
+</p>
+
+<div align="center">
+
+<img
+  src="https://api.iconify.design/simple-icons:cisco.svg?color=%231BA0D7"
+  width="52"
+  height="52"
+  alt="Cisco"
+/>
+
+</div>
+
+<p align="center">
+  <sub>
+    Cisco · Networking · Routing · OSPF · Switching · VLANs · Network ·
+    ACLs · VPN · IPsec
+  </sub>
+</p>
+
+<!-- ================= AUTOMATION & CLOUD ================= -->
+
+<p align="center">
+  <strong>04 // AUTOMATION &amp; CLOUD</strong>
+</p>
+
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=python,powershell,ansible,terraform,azure&theme=dark&perline=5"
+  height="52"
+  alt="Python PowerShell Ansible Terraform Azure"
+/>&nbsp;&nbsp;
+<img
+  src="https://api.iconify.design/simple-icons:oracle.svg?color=%23F80000"
+  width="52"
+  height="52"
+  alt="Oracle Cloud"
+/>
+
+</div>
+
+<p align="center">
+  <sub>
+    PowerShell · Scripting · Python · Automation · Ansible · Terraform · IaC ·
+    Microsoft Azure · Cloud · Oracle Cloud · OCI
+  </sub>
+</p>
+
+<!-- ================= OFFENSIVE SECURITY ================= -->
+
+<p align="center">
+  <strong>05 // OFFENSIVE SECURITY</strong>
+</p>
+
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=kali,linux&theme=dark&perline=2"
+  height="52"
+  alt="Kali Linux"
+/>
+
+</div>
+
+<p align="center">
+  <sub>
+    Reconnaissance · Enumeration · Active Directory Security · Windows PrivEsc ·
+    Linux PrivEsc · Web Security · Penetration Testing
+  </sub>
+</p>
+
+<!-- ======================== STATUS ======================== -->
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=9&duration=2400&pause=1000&color=7D8B99&center=true&vCenter=true&repeat=true&width=650&height=22&lines=%5B+SECURITY+%5D+ACTIVE+%2F%2F+%5BNETWORK%5D+ACTIVE;%5B+INFRASTRUCTURE+%5D+READY+%2F%2F+%5BAUTOMATION+%5D+BUILDING;%5B+OFFENSIVE+SECURITY+%5D+READY+%2F%2F+%5BCLOUD+%5D+BUILDING"
+    alt="Technical stack status"
+  />
+</p>
 
 ---
 
