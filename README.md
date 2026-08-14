@@ -204,7 +204,9 @@ These are **development areas and career targets**, not claims of professional-l
 <div align="center">
 
 <img width="760" src="./assets/operator-telemetry.svg" alt="Animated focus map showing Fred Castillo's development areas in security engineering, infrastructure hardening, network security and controlled offensive security labs" />
+
   <a href="https://github.com/fredcastillo?tab=overview"><img alt="View Fred Castillo's live GitHub activity" src="https://img.shields.io/badge/VIEW_LIVE_ACTIVITY-GITHUB-4FEECF?style=for-the-badge&amp;logo=github&amp;logoColor=0D1117&amp;labelColor=0D1117" /></a>
+  
 </div>
 
 ---
