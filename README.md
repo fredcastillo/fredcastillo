@@ -70,7 +70,7 @@ Offensive Security / Red Team
 <td width="50%" valign="top">
 
 <h3>
-  <img src="https://cdn.simpleicons.org/microsoft" width="20" height="20" valign="middle">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/microsoft.svg" width="20" height="20">
   Windows Server 2025 Security Lab
 </h3>
 
