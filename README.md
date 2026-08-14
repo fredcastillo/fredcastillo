@@ -142,12 +142,11 @@ ATTACK -> OBSERVE -> DETECT -> REMEDIATE -> AUTOMATE
 ```
 
 ---
-
 ## `> technical_stack`
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1800&pause=900&color=00D9FF&center=true&vCenter=true&repeat=true&width=900&height=28&lines=SECURITY+ENGINEERING;SYSTEMS+%26+INFRASTRUCTURE;NETWORKING;AUTOMATION+%26+CLOUD;OFFENSIVE+SECURITY"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=900&color=00D9FF&center=true&vCenter=true&repeat=true&width=900&height=42&lines=SECURITY+ENGINEERING;SYSTEMS+%26+INFRASTRUCTURE;NETWORKING;AUTOMATION+%26+CLOUD;OFFENSIVE+SECURITY"
     alt="Technical domains"
   />
 </p>
@@ -158,15 +157,35 @@ ATTACK -> OBSERVE -> DETECT -> REMEDIATE -> AUTOMATE
   <strong>01 // SECURITY</strong>
 </p>
 
-<div align="center">
-
-<img
-  src="https://skillicons.dev/icons?i=windows,linux,kali&theme=dark&perline=3"
-  height="52"
-  alt="Windows Linux Kali"
-/>
-
-</div>
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=windows&theme=dark"
+    width="52"
+    height="52"
+    alt="Windows"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=linux&theme=dark"
+    width="52"
+    height="52"
+    alt="Linux"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=kali&theme=dark"
+    width="52"
+    height="52"
+    alt="Kali Linux"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://api.iconify.design/simple-icons:wireshark.svg?color=%231679A7"
+    width="52"
+    height="52"
+    alt="Wireshark"
+  />
+</p>
 
 <p align="center">
   <sub>
@@ -181,21 +200,42 @@ ATTACK -> OBSERVE -> DETECT -> REMEDIATE -> AUTOMATE
   <strong>02 // SYSTEMS &amp; INFRASTRUCTURE</strong>
 </p>
 
-<div align="center">
-
-<img
-  src="https://skillicons.dev/icons?i=windows,linux,docker,proxmox&theme=dark&perline=4"
-  height="52"
-  alt="Windows Linux Docker Proxmox"
-/>&nbsp;&nbsp;
-<img
-  src="https://www.svgrepo.com/show/340620/logo-vmware.svg"
-  width="52"
-  height="52"
-  alt="VMware"
-/>
-
-</div>
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=windows&theme=dark"
+    width="52"
+    height="52"
+    alt="Windows"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=linux&theme=dark"
+    width="52"
+    height="52"
+    alt="Linux"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=docker&theme=dark"
+    width="52"
+    height="52"
+    alt="Docker"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=proxmox&theme=dark"
+    width="52"
+    height="52"
+    alt="Proxmox"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://www.svgrepo.com/show/340620/logo-vmware.svg"
+    width="52"
+    height="52"
+    alt="VMware"
+  />
+</p>
 
 <p align="center">
   <sub>
@@ -210,20 +250,25 @@ ATTACK -> OBSERVE -> DETECT -> REMEDIATE -> AUTOMATE
   <strong>03 // NETWORKING</strong>
 </p>
 
-<div align="center">
-
-<img
-  src="https://api.iconify.design/simple-icons:cisco.svg?color=%231BA0D7"
-  width="52"
-  height="52"
-  alt="Cisco"
-/>
-
-</div>
+<p align="center">
+  <img
+    src="https://api.iconify.design/simple-icons:cisco.svg?color=%231BA0D7"
+    width="52"
+    height="52"
+    alt="Cisco"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://api.iconify.design/simple-icons:fortinet.svg?color=%23EE3124"
+    width="52"
+    height="52"
+    alt="Fortinet"
+  />
+</p>
 
 <p align="center">
   <sub>
-    Cisco · Networking · Routing · OSPF · Switching · VLANs · Network ·
+    Cisco · Fortinet · Networking · Routing · OSPF · Switching · VLANs · Network ·
     ACLs · VPN · IPsec
   </sub>
 </p>
@@ -234,21 +279,49 @@ ATTACK -> OBSERVE -> DETECT -> REMEDIATE -> AUTOMATE
   <strong>04 // AUTOMATION &amp; CLOUD</strong>
 </p>
 
-<div align="center">
-
-<img
-  src="https://skillicons.dev/icons?i=python,powershell,ansible,terraform,azure&theme=dark&perline=5"
-  height="52"
-  alt="Python PowerShell Ansible Terraform Azure"
-/>&nbsp;&nbsp;
-<img
-  src="https://api.iconify.design/simple-icons:oracle.svg?color=%23F80000"
-  width="52"
-  height="52"
-  alt="Oracle Cloud"
-/>
-
-</div>
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python&theme=dark"
+    width="52"
+    height="52"
+    alt="Python"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=powershell&theme=dark"
+    width="52"
+    height="52"
+    alt="PowerShell"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=ansible&theme=dark"
+    width="52"
+    height="52"
+    alt="Ansible"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=terraform&theme=dark"
+    width="52"
+    height="52"
+    alt="Terraform"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=azure&theme=dark"
+    width="52"
+    height="52"
+    alt="Microsoft Azure"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://api.iconify.design/simple-icons:oracle.svg?color=%23F80000"
+    width="52"
+    height="52"
+    alt="Oracle Cloud"
+  />
+</p>
 
 <p align="center">
   <sub>
@@ -263,20 +336,40 @@ ATTACK -> OBSERVE -> DETECT -> REMEDIATE -> AUTOMATE
   <strong>05 // OFFENSIVE SECURITY</strong>
 </p>
 
-<div align="center">
-
-<img
-  src="https://skillicons.dev/icons?i=kali,linux&theme=dark&perline=2"
-  height="52"
-  alt="Kali Linux"
-/>
-
-</div>
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=kali&theme=dark"
+    width="52"
+    height="52"
+    alt="Kali Linux"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=linux&theme=dark"
+    width="52"
+    height="52"
+    alt="Linux"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://api.iconify.design/simple-icons:burpsuite.svg?color=%23FF6633"
+    width="52"
+    height="52"
+    alt="Burp Suite"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/fern-wifi-cracker-icon.png"
+    width="52"
+    height="52"
+    alt="Fern WiFi Cracker"
+  />
+</p>
 
 <p align="center">
   <sub>
     Reconnaissance · Enumeration · Active Directory Security · Windows PrivEsc ·
-    Linux PrivEsc · Web Security · Penetration Testing
+    Linux PrivEsc · Web Security · Penetration Testing · Burp Suite · Fern WiFi Cracker
   </sub>
 </p>
 
