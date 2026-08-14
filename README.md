@@ -149,123 +149,119 @@ ATTACK -> OBSERVE -> DETECT -> REMEDIATE -> AUTOMATE
 <p align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=700&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=SECURITY+ENGINEERING;SYSTEMS+%26+INFRASTRUCTURE;NETWORKING;AUTOMATION+%26+CLOUD;OFFENSIVE+SECURITY"
-  alt="Technical domains"
-/>
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=1800&pause=500&color=00D9FF&center=true&vCenter=true&repeat=true&width=620&height=32&lines=%3E+SECURITY+ENGINEERING;%3E+SYSTEMS+%26+INFRASTRUCTURE;%3E+NETWORKING;%3E+AUTOMATION+%26+CLOUD;%3E+OFFENSIVE+SECURITY"
+  alt="Technical Stack"
+>
 
 </p>
 
-<table align="center">
-<tr>
-<td width="150" align="right" valign="middle">
+<!-- SECURITY -->
 
-### `01`
+<p align="center">
+  <sub>01</sub><br>
+  <strong>SECURITY</strong>
+</p>
 
-**SECURITY**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux,kali&theme=dark" height="58">
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="58" height="58">
+  <img src="https://cdn.simpleicons.org/wazuh/00AEEF" width="58" height="58">
+  <img src="https://cdn.simpleicons.org/tenable/00B386" width="58" height="58">
+</p>
 
-</td>
-
-<td valign="middle">
-
-<img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" height="42" />
-
-<br>
-
-<sub>Wazuh · Wireshark · Nessus · Active Directory · SIEM · IAM · Hardening</sub>
-
-</td>
-</tr>
-
-<tr>
-<td width="150" align="right" valign="middle">
-
-### `02`
-
-**INFRA**
-
-</td>
-
-<td valign="middle">
-
-<img src="https://skillicons.dev/icons?i=windows,linux,docker,proxmox,vmware&theme=dark&perline=5" height="42" />
+<p align="center">
+  <sub>
+    Wazuh · Wireshark · Nessus · Active Directory · SIEM · IAM · Hardening
+  </sub>
+</p>
 
 <br>
 
-<sub>Windows Server · AD DS · GPO · Containers · Virtualization</sub>
+<!-- SYSTEMS & INFRASTRUCTURE -->
 
-</td>
-</tr>
+<p align="center">
+  <sub>02</sub><br>
+  <strong>SYSTEMS &amp; INFRASTRUCTURE</strong>
+</p>
 
-<tr>
-<td width="150" align="right" valign="middle">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux,docker,proxmox,vmware&theme=dark" height="58">
+</p>
 
-### `03`
-
-**NETWORKING**
-
-</td>
-
-<td valign="middle">
-
-<img src="https://skillicons.dev/icons?i=cisco&theme=dark" height="42" />
-
-<br>
-
-<sub>Routing · Switching · OSPF · VLANs · ACLs · VPN · IPsec</sub>
-
-</td>
-</tr>
-
-<tr>
-<td width="150" align="right" valign="middle">
-
-### `04`
-
-**AUTOMATION**
-
-</td>
-
-<td valign="middle">
-
-<img src="https://skillicons.dev/icons?i=python,powershell,ansible,terraform,azure&theme=dark&perline=5" height="42" />
+<p align="center">
+  <sub>
+    Windows Server · AD DS · GPO · Containers · Virtualization
+  </sub>
+</p>
 
 <br>
 
-<sub>Scripting · Automation · Infrastructure as Code · Cloud</sub>
+<!-- NETWORKING -->
 
-</td>
-</tr>
+<p align="center">
+  <sub>03</sub><br>
+  <strong>NETWORKING</strong>
+</p>
 
-<tr>
-<td width="150" align="right" valign="middle">
+<p align="center">
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="58" height="58">
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="58" height="58">
+</p>
 
-### `05`
-
-**OFFENSIVE**
-
-</td>
-
-<td valign="middle">
-
-<img src="https://skillicons.dev/icons?i=kali,linux&theme=dark" height="42" />
+<p align="center">
+  <sub>
+    Routing · Switching · OSPF · VLANs · ACLs · VPN · IPsec
+  </sub>
+</p>
 
 <br>
 
-<sub>Reconnaissance · Enumeration · AD Security · PrivEsc · Web Security · Pentesting</sub>
+<!-- AUTOMATION & CLOUD -->
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <sub>04</sub><br>
+  <strong>AUTOMATION &amp; CLOUD</strong>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,powershell,ansible,terraform,azure&theme=dark" height="58">
+</p>
+
+<p align="center">
+  <sub>
+    Python · PowerShell · Ansible · Infrastructure as Code · Microsoft Azure
+  </sub>
+</p>
+
+<br>
+
+<!-- OFFENSIVE SECURITY -->
+
+<p align="center">
+  <sub>05</sub><br>
+  <strong>OFFENSIVE SECURITY</strong>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kali,linux,windows&theme=dark" height="58">
+</p>
+
+<p align="center">
+  <sub>
+    Reconnaissance · Enumeration · Active Directory Security · PrivEsc · Web Security · Pentesting
+  </sub>
+</p>
+
+<br>
 
 <p align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=2800&pause=900&color=7D8B99&center=true&vCenter=true&repeat=true&width=680&height=25&lines=%5B+SECURITY+%5D+ACTIVE+%20%20%20%5BNETWORK%5D+ACTIVE+%20%20%20%5BINFRA%5D+READY+%20%20%20%5BCLOUD%5D+BUILDING"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=2600&pause=900&color=7D8B99&center=true&vCenter=true&repeat=true&width=620&height=22&lines=%5B+SECURITY+%5D+ACTIVE+%20%20%2F%2F%20%20%5BNETWORK%5D+ACTIVE;%5B+INFRASTRUCTURE+%5D+READY+%20%20%2F%2F%20%20%5BAUTOMATION+%5D+BUILDING;%5B+OFFENSIVE+SECURITY+%5D+READY"
   alt="System status"
-/>
+>
 
 </p>
-
 ---
 
 ## `> certifications`
