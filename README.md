@@ -53,7 +53,6 @@ Enterprise-style Windows security laboratory focused on:
 - WSUS
 - PKI / Certificate Services
 - Nessus vulnerability assessment
-- Vulnerability remediation
 - Microsoft LAPS
 - Least privilege
 
