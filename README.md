@@ -391,11 +391,12 @@ ATTACK -> OBSERVE -> DETECT -> REMEDIATE -> AUTOMATE
 - **ISC2 Certified in Cybersecurity (CC)**
 - Google Cybersecurity Professional Certificate
 - Certiplus CCA Cybersecurity Certification Associate
-- INDOTEL Cybersecurity Training
+- INDOTEL Cybersecurity Advanced
+
 
 ### Cloud
 - **Oracle Cloud Infrastructure 2025 Certified Foundations Associate**
-- Microsoft Azure / Cloud training
+-  Microsoft Certified: Azure Fundamentals (AZ-900)
 
 ### Networking & Systems
 - Cisco Networking / CCNA training
